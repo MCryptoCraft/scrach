@@ -1,0 +1,28 @@
+# 🎮 Catch Me If You Can – Mini Game
+
+A fun, beginner-friendly browser game inspired by MIT’s game-building concepts. The goal? Try to catch the red square as it jumps around the screen!
+
+---
+
+## 🕹️ Gameplay
+
+- A red square appears at random positions every 2 seconds.
+- Click on the red square to "catch" it.
+- Every successful click shows an alert and repositions the square.
+- Simple yet addictive reflex training!
+
+---
+
+## 🧠 Inspiration
+
+This game is influenced by the logic and creativity of [MIT Scratch](https://scratch.mit.edu) and beginner-friendly programming from MIT’s [Open Learning](https://openlearning.mit.edu/) resources.
+
+---
+
+## 📁 Project Structure
+
+```bash
+.
+├── index.html     # Main game code
+├── LICENSE        # Open-source license (MIT)
+└── README.md      # You're reading it!
